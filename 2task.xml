@@ -1,0 +1,10 @@
+
+<udata xmlns:xlink="http://www.w3.org/TR/xlink" module="content" method="menu" generation-time="0.043191">
+	<items>
+		<item id="2" link="/o_kompanii/" name="О компании" xlink:href="upage://2">О компании</item>
+		<item id="3" link="/uslugi/" name="Услуги" xlink:href="upage://3">Услуги</item>
+		<item id="71" link="/rabota/" name="Работа" xlink:href="upage://71">Работа</item>
+		<item id="50" link="/study/" name="Семинары" xlink:href="upage://50">Семинары</item>
+		<item id="6" link="/contacts/" name="Контакты" xlink:href="upage://6">Контакты</item>
+	</items>
+</udata>
